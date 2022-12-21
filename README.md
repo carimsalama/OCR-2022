@@ -1,4 +1,5 @@
 # OCR-2022
+# Optical Character Recognition handwritten English letters using decision tree and random forest in python.
 Accurate: Your app is able to accurately recognize and transcribe text from images.
 Efficient: Your app is able to process images quickly and efficiently, providing fast results.
 User-friendly: Your app is easy to use and navigate, making it accessible to a wide range of users.
